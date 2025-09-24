@@ -1,0 +1,67 @@
+# macOS
+.DS_Store
+.AppleDouble
+.Icon?
+
+
+# Fall2020
+Fall2020/
+
+# Fall2025 large files
+Fall2025/chapter1/materials
+
+# # VS Code
+# .vscode/*
+# !.vscode/settings.json
+# !.vscode/extensions.json
+# !.vscode/launch.json
+# !.vscode/tasks.json
+
+# # Python
+# __pycache__/
+# *.py[cod]
+# *.egg-info/
+# .eggs/
+# build/
+# dist/
+# .venv/
+# venv/
+# ENV/
+# .env
+# .ipynb_checkpoints/
+
+# # R / Quarto
+# .Rproj.user/
+# .Rhistory
+# .RData
+# .Ruserdata
+# _site/
+# .quarto/
+# docs/        # remove this line if you want to publish a Pages site from docs/
+
+# # LaTeX
+# *.aux
+# *.log
+# *.out
+# *.toc
+# *.bbl
+# *.blg
+# *.fls
+# *.fdb_latexmk
+# *.synctex.gz
+
+# # Node
+# node_modules/
+# .yarn/
+# .pnpm-store/
+
+# # Data / figures (customize)
+# data/raw/
+# data/interim/
+# !data/**/.gitkeep
+# plots/**/*
+# !plots/.gitkeep
+
+# # Keep GitHub workflows tracked
+# !.github/
+# !.github/workflows/
